@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Curiosity</string>
+
+    <string name="camera">Cam: %1$s </string>
+    <string name="data">Date: %1$s </string>
+    <string name="rover">Rover: %1$s </string>
+    <string name="like">Like: %1$s </string>
+
+    <string name="total_click">Total like: %1$s </string>
+</resources>
